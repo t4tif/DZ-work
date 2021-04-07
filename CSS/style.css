@@ -52,7 +52,7 @@ a {text-decoration: none !important;}
 /*fother*/
 .posiz {
     position: fixed;
-    background-color: white !important;
+    background-color: white;
 }
 
 .logo-header { width: 9rem;}

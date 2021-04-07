@@ -15,12 +15,7 @@
     box-sizing: border-box;
     color: black !important;
 }
-/* body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: yellow;
-} */
+
 html {
     scroll-behavior: smooth;
 }
@@ -57,6 +52,7 @@ a {text-decoration: none !important;}
 /*fother*/
 .posiz {
     position: fixed;
+    background-color: white;
 }
 
 .logo-header { width: 9rem;}
